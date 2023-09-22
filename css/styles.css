@@ -30,13 +30,13 @@ body {
 
 .section {
   padding: 120px 0;
+  padding: 0 15px;
 }
 
 .container {
   width: 1158px;
   margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 a {
@@ -48,22 +48,20 @@ a {
   display: flex;
   align-items: center;
   width: 100%;
-  padding: 24px 0;
+  padding: 0 15px;
 }
 
 .header {
   border-bottom: 1px solid #e7e9fc;
   padding: 24px 0;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .header-container {
   display: flex;
   align-items: center;
   padding: 24px 0;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .header-logo {
@@ -76,8 +74,7 @@ a {
   text-transform: uppercase;
   margin-right: 76px;
   padding: 24px 0;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .header-logo-color {
@@ -92,12 +89,12 @@ a {
   display: flex;
   gap: 40px;
   padding: 24px 0;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .header-item {
   padding: 24px 0;
+  padding: 0 15px;
 }
 
 .header-link {
@@ -107,8 +104,7 @@ a {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
   padding: 24px 0;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .header-link:hover,
