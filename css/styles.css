@@ -30,7 +30,6 @@ body {
 
 .section {
   padding: 120px 0;
-  padding: 0 15px;
 }
 
 .container {
@@ -89,12 +88,10 @@ a {
   display: flex;
   gap: 40px;
   padding: 24px 0;
-  padding: 0 15px;
 }
 
 .header-item {
   padding: 24px 0;
-  padding: 0 15px;
 }
 
 .header-link {
